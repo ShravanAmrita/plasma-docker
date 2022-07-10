@@ -1,2 +1,1 @@
-# plasma-docker
-for openshift sample
+# Plasma-App-testing
